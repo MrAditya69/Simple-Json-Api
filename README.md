@@ -25,6 +25,7 @@ This Is A Simple Json Api Made With Js [Check How It Looks](https://api.yourphan
 
 **[PHANTOM0P](https://twitter.com/Mr_aditya69)**
 
+## Contributors
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=PHANTOM0P/api.yourphantom)
 
