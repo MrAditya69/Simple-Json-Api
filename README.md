@@ -1,4 +1,4 @@
-<a herf="https://www.yourphantom.co.in"> <h2>Api Of www.yourphantom.co.in</h2></a>
+<a herf="https://www.yourphantom.co.in" target="link_" > <h2>Api Of www.yourphantom.co.in</h2></a>
 
 
 
