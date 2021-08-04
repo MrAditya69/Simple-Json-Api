@@ -1,18 +1,32 @@
+
+# API FOR [YOURPHANTOM](https://yourphantom.co.in)
+
+<img src="https://camo.githubusercontent.com/43a182459c67f169261a556d76805a697d1ac7d390b5b5a2b7e476773e2882c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657273696f6e2d312e302e302d627269676874677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d6170707665796f72" alt="">
+
 * **Api Of [YourPhantom](https://www.yourphantom.co.in) 💻**
 
 > This Is A Json Api Of [YourPhantom](https://www.yourphantom.co.in) Which Has All Data About Our Pages, Products, Projects And Many More
 
-<h2>IMAGE OF YOURPHANTOM</h2>
+
+This Is A Simple Json Api Made With Js [Check How It Looks](https://api.yourphantom.co.in) It Isn't Completed Yet We Are Still Working On This Shit.
+
+---
+
+> IMAGE OF OUR API
  
- <center>
+
 <img src="https://yourphantom.co.in/sample.png" alt="Paris">
-</center>
   
-- [x] This is a complete item
-- [ ] This is an incomplete item
+- [ ] This is a complete api
+- [x] This is an incomplete api
 
-When you include a task list in the first comment of an Issue, you will see a helpful progress bar in your list of issues. It works in Pull Requests, too!
 
-And, of course emoji!
+## Author
+
+**[PHANTOM0P](https://twitter.com/Mr_aditya69)**
+
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=PHANTOM0P/api-yourphantom)
+
 
 
