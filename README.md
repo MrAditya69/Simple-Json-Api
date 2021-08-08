@@ -23,7 +23,7 @@ This Is A Simple Json Api Made With Js [Check How It Looks](https://api.yourphan
 
 ## Author
 
-**[PHANTOM0P](https://twitter.com/Mr_aditya69)**
+**[PHANTOM0P](https://www.yourphantom.co.in/about.html)**
 
 ## Contributors
 
