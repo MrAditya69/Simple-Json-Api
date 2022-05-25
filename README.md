@@ -6,8 +6,6 @@
 > This Is A Json Api Which Has All Data About Our Pages, Products, Projects And Many More
 
 
-This Is A Simple Json Api Made With Js We Are Not Using This Api Anymore.
-
 ---
 
 ## Author
