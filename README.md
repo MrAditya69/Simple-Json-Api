@@ -9,6 +9,6 @@
 
 ## Author
 
-**[PHANTOM0P](https://guthub.com/IcyKaido)**
+**[IcyKaido](https://github.com/IcyKaido)**
 
 
